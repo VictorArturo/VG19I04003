@@ -145,6 +145,7 @@ p, h1, h2, h3,h4{
     padding-top: 150px;
     padding: 200px;
     overflow: hidden;
+    height: 920px;
 }
 
 .calendario{
@@ -153,6 +154,7 @@ p, h1, h2, h3,h4{
     padding-top: 150px;
     padding: 200px;
     overflow: hidden;
+    height: 920px;
 }
 
 .articulos{
@@ -161,6 +163,7 @@ p, h1, h2, h3,h4{
     padding-top: 150px;
     padding: 200px;
     overflow: hidden;
+    height: 920px;
 }
 
 .mas{
@@ -169,6 +172,7 @@ p, h1, h2, h3,h4{
     padding-top: 150px;
     padding: 200px;
     overflow: hidden;
+    height: 10px;
 }
 
 
@@ -184,7 +188,7 @@ p, h1, h2, h3,h4{
 .cajatitulos h2{
     text-align: center;
     font-size: 50px;
-    color: rgb(177, 34, 34);
+    color: #550033;
     margin: 0;
 }
 
