@@ -18,7 +18,7 @@ body{
     box-sizing: border-box;
 }
 p, h1, h2, h3,h4{
-    font-family: "Oswald", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 14px;
     color: #ffffff;
     margin: 6px;
@@ -91,48 +91,7 @@ p, h1, h2, h3,h4{
     overflow: hidden;
     background-image: url("../img/banner1.jpg");
 }
-.nube1{
-    width: 100%;
-    height: auto;
-    display: block;
-    max-width: 396px;
-    position: absolute;
-    left: 2%;
-    top: 13%;
-}
-.nube2{
-    width: 100%;
-    height: auto;
-    display: block;
-    max-width: 396px;
-    position: absolute;
-    right: 2%;
-    top: 18%;
-}
-.ave1{
-    display: block;
-    position: absolute;
-    left: 26%;
-    top: 20%;
-}
-.ave2{
-    display: block;
-    position: absolute;
-    left: 40%;
-    top: 35%;
-}
-.ave3{
-    display: block;
-    position: absolute;
-    left: 46%;
-    top: 30%;
-}
-.ave4{
-    display: block;
-    position: absolute;
-    left: 60%;
-    top: 24%;
-}
+
 .nave{
     width: 100%;
     height: auto;
